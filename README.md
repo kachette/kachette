@@ -1,0 +1,5 @@
+- 👋 Hi, I am Igor
+- 👀 I am interested in blockchain, data analytics, economics and user experience
+- 🌱 I’m currently learning full-stack web development, experiment with the machine learning and work on some projects as the Junior UX Designer
+- 💞️ I’m always looking to coloborate on some interesting social media and crypro projects
+- 📫 
